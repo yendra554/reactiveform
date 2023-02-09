@@ -1,0 +1,172 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Anuj",
+      "mobile": "dfd6989809",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "PanchKula",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "cname": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ambikesh",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "cname": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 6,
+      "name": "fgge",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "cname": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 7,
+      "name": "wywudb",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "cname": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mukesh",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "cname": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Ambikesh",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "cname": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ambikesh",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "name": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Raghav",
+      "mobile": "876989802",
+      "address": {
+        "street": "Kl",
+        "suite": "Apt. 556",
+        "city": "Kashmora",
+        "Zipcode": "92998-3874",
+        "geo": {
+          "lat": "-36.3743",
+          "lng": "-89.1478"
+        }
+      },
+      "website": "iadi.com",
+      "company": {
+        "name": "Iadi",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    }
+  ]
+}
